@@ -52,3 +52,14 @@
 * Between
     * between place and place 2
     * We can use not
+
+* Group by
+
+* Order by
+    * asc ascendent
+    * desc descending
+    * limit number, just that quantity
+
+* Having 
+    * is like where but with dinamic grous
+
